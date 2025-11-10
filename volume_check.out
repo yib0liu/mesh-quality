@@ -1,0 +1,40 @@
+>>> Using my local DEV version of mypackage <<<
+file: data2/output1.msh_new
+Tet
+V>0  100 %
+all det>0  100 %
+Pyramid
+V>0  100 %
+all det>0  100 %
+Prism
+V>0  100 %
+all det>0  100 %
+Overall
+V>0  100 %
+all det>0  100 %
+file: data2/output2.msh_new
+Tet
+V>0  100 %
+all det>0  100 %
+Pyramid
+V>0  100 %
+all det>0  100 %
+Prism
+V>0  100 %
+all det>0  100 %
+Overall
+V>0  100 %
+all det>0  100 %
+file: data2/output4.msh_new
+Tet
+V>0  100 %
+all det>0  100 %
+Pyramid
+V>0  100 %
+all det>0  100 %
+Prism
+V>0  100 %
+all det>0  100 %
+Overall
+V>0  100 %
+all det>0  100 %
